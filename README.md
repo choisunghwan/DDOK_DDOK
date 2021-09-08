@@ -15,7 +15,7 @@
 
 # Plan
 - Group meeting/chat function during video conference
-- The transparent chat window on the screen
+- The transparent chat on the screen
 - Auto Recording and upload
 - Scadule function
 - UI simplification
