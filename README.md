@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlignY=50&desc=Graduation project of DCU students.&descAlignY=65&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlign=48&desc=Graduation project of DCU students.&descAlignY=65&descAlign=62" />
 
 
 # :droplet: 똑똑 (한 프로그램) 똑똑 (들여보내주세요) :droplet:
