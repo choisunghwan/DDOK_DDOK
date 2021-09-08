@@ -11,3 +11,11 @@
 
 # Collaboration tool
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+
+
+# Plan
+- Group meeting/chat function during video conference
+- The transparent chat window on the screen
+- Auto Recording and upload
+- Scadule function
+- UI simplification
