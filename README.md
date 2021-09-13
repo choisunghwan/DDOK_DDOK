@@ -17,5 +17,5 @@
 - Group meeting/chat function during video conference
 - The transparent chat on the screen
 - Auto recording and upload
-- Schadule function
+- Schedule function
 - UI simplification
