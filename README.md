@@ -9,13 +9,13 @@
   </a>
 </p>
 
-# Collaboration tool
+## 협업 툴
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 
-# Plan
-- Group meeting/chat function during video conference
-- The transparent chat on the screen
-- Auto recording and upload
-- Schedule function
-- UI simplification
+## 계획
+- 화상 회의 중 그룹 회의 / 채팅 기능
+- 수업 화면 위의 투명 채팅창
+- 수업 내용 자동 녹화 및 업로드
+- 시간표 기능
+- UI 간편화
