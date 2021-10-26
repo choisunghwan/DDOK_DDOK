@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlign=48&desc=Capstone Design Project.&descAlignY=65&descAlign=68" />
 
-
 # :droplet: 똑똑 (한 프로그램) 똑똑 (들여보내주세요) :droplet:
 - Start date : 2021. 08. 31.
 <p align= 'center'>
@@ -14,11 +13,11 @@
 
 
 ## 핵심
-- 온라인 시험
+- 온라인 시험 부정행위 감지 
 
 ## 부가적인 계획
-- 화상 회의 중 그룹 회의 / 채팅 기능
-- 수업 화면 위의 투명 채팅창
-- 수업 내용 자동 녹화 및 업로드
-- 시간표 기능
-- UI 간편화
+- 부정행위 감지된 부분 녹화
+- 시험 종료시 부정행위 감지 로그 출력
+- 
+- 
+- 
