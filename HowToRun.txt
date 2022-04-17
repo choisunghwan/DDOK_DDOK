@@ -1,0 +1,23 @@
+0. flask 설치
+pip install flask
+
+0-1. watchu-web 으로 이동 후 
+pip install -r requirements.txt
+필요 설치 파일 있으니 이 명령어 치면 다 다운됨
+
+0-2.local ver 이동후
+face_recognition 모듈 없다고 하면
+pip install cmake -> pip install dlib -> pip install face_recognition
+순서대로 진행
+그리고 외에 module 설치 하라는 거 설치해주기
+
+1. flask 실행할 경로로 터미널 변경
+cd ---
+우리는 ddok-web / local ver 폴더 2개 쓸꺼임
+
+3. 실행할 flask_app 지정
+ddok-web/ddokddok >> set FLASK_APP=__init__
+
+4. 실행
+ddok-web/ddokddok >> flask run
+local ver >> python student.py
