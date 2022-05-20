@@ -12,7 +12,7 @@ import requests
 
 # server='3.38.30.89:5000'
 server = '127.0.0.1:5000'
-
+#server = '13.125.238.105:5000'
 
 class FaceRecog():
     def __init__(self, grand, sn, en):

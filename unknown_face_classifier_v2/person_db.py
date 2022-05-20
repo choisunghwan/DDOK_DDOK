@@ -25,7 +25,8 @@ class Face():
 
     @classmethod
     def get_encoding(cls, image):
-        rgb = image[:, :, ::-1]
+        rgb = image[:, :, ::-1] # 이미지를 RGB format으로 변환
+         # 얼굴 영역을 알아낸다
         boxes = face_recognition.face_locations(rgb, model="hog")
         if not boxes:
             height, width, channels = image.shape

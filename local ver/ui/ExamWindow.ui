@@ -23,13 +23,13 @@
    <string>DDOK DDOK</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color:rgb(252, 252, 244)</string>
+   <string notr="true">background-color:rgb(255, 255, 255)</string> <!-- /기존:252, 252, 244-->
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="minimumSize">
     <size>
-     <width>360</width>
-     <height>530</height>
+     <width>500</width> <!--기존: 360-->
+     <height>830</height><!--기존: 530-->
     </size>
    </property>
    <widget class="QLabel" name="label_sn_title">
@@ -49,7 +49,7 @@
      </font>
     </property>
     <property name="text">
-     <string>학       번 :</string>
+     <string>학   번 :</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_en_title">
@@ -92,7 +92,7 @@
      <string>finishButton</string>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color:rgb(255, 230, 153)</string>
+     <string notr="true">background-color:rgb(14, 122, 254)</string><!--255, 230, 153-->
     </property>
     <property name="text">
      <string>시 험 종 료</string>
@@ -162,7 +162,7 @@
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color:rgb(255, 230, 153)</string>
+     <string notr="true">background-color:rgb(14, 122, 254)</string><!--255, 230, 153-->
     </property>
     <property name="text">
      <string>감시기능 작동 중</string>

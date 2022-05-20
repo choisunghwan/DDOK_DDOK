@@ -19,5 +19,5 @@ cd ---
 ddok-web/ddokddok >> set FLASK_APP=__init__
 
 4. 실행
-ddok-web/ddokddok >> flask run
-local ver >> python student.py
+cd ddok-web/ddokddok >> flask run --host=0.0.0.0   <= 시험감독관
+cd local ver >> python student.py     <== 시험 응시자

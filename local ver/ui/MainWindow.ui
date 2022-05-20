@@ -26,13 +26,13 @@
    <bool>false</bool>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color:rgb(252, 252, 244)</string>
+   <string notr="true">background-color:rgb(179, 236, 255)</string> <!--학생용 배경 색깔-->
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="minimumSize">
     <size>
-     <width>360</width>
-     <height>530</height>
+     <width>360</width><!--360-->
+     <height>1060</height><!--530-->
     </size>
    </property>
    <widget class="QLabel" name="label_sn">
@@ -115,12 +115,28 @@
     <property name="accessibleName">
      <string>enterButton</string>
     </property>
+    
     <property name="styleSheet">
-     <string notr="true">background-color:rgb(255, 230, 153)</string>
+     <string notr="true">background-color:rgb(26, 198, 255)</string><!--시험 입장 버튼 색깔 코드 255, 230, 153-->
+    </property>
+    
+  
+    
+     <property name="font">
+     <font>
+      <family>나눔스퀘어라운드 Bold</family>
+      <weight>75</weight>
+     color: rgb(0,255,0);
+     </font>
     </property>
     <property name="text">
-     <string>시 험 입 장</string>
+     <string>시험번호</string>
     </property>
+
+
+
+
+    
     <property name="autoDefault">
      <bool>true</bool>
     </property>
