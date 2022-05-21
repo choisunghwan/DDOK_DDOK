@@ -130,7 +130,7 @@
      </font>
     </property>
     <property name="text">
-     <string>시험번호</string>
+     <string>시험 입장</string>
     </property>
 
 
@@ -180,7 +180,7 @@
     <property name="font">
      <font>
       <family>나눔스퀘어_ac ExtraBold</family>
-      <pointsize>13</pointsize>
+      <pointsize>10</pointsize>     <!--학생용 프로그램 ddok ddok -->
       <weight>75</weight>
       <bold>true</bold>
      </font>
