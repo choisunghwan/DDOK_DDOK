@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlign=48&desc=Capstone Design Project.&descAlignY=65&descAlign=68" />
-<<<<<<< HEAD
+
 
 # :droplet: 똑똑 (한 프로그램) 똑똑 (들여보내주세요) :droplet:
 - Start date : 2021. 08. 31.
