@@ -1,6 +1,6 @@
 /* Custom Styles */
 
-/* Theam Color : #ffe699 */
+/* Theam Color : #abf1ff */
 
 /* 1. Font               */
 /* 2. Global Styles      */
@@ -61,7 +61,7 @@ p, span, li {
 
 /* Independent Styles */
 .navbar {
-    background-color: #d5f4ff;/*#ffe699;*/
+    background-color: #d5f4ff;/*#abf1ff;*/
 }
 
 .card__menu a {
