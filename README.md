@@ -12,7 +12,7 @@
 ## 협업 툴
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
-# 사용 언어
+## 사용 언어
 <img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-critical?style=flat-square&logo=html5&logoColor=white"/>
 
 
