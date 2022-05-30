@@ -44,7 +44,6 @@
       <height>15</height>
      </rect>
     </property>
-
     <property name="font">
      <font>
       <family>나눔스퀘어라운드 Bold</family>
@@ -52,7 +51,6 @@
       <bold>true</bold>
      </font>
     </property>
-
     <property name="text">
      <string>학      번</string>
     </property>
@@ -73,7 +71,6 @@
       <bold>true</bold>
      </font>
     </property>
-
     <property name="text">
      <string>시험번호</string>
     </property>
@@ -95,11 +92,9 @@
     <property name="accessibleName">
      <string>lineEdit_en</string>
     </property>
-    <property name="styleSheet">        <!--시험번호 입력 칸 스타일시트-->
-     <string notr="true">
-     background-color:rgb(252, 252, 252);
-     border: 2px solid gray;            <!--테두리-->
-     border-radius: 10px;               <!--테두리 라운드 -->
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(252, 252, 252)
+     
      </string>
     </property>
    </widget>
@@ -122,13 +117,13 @@
     <property name="accessibleName">
      <string>enterButton</string>
     </property>
-    <property name="styleSheet">            <!--시험 입장 버튼 스타일 시트-->
-     <string notr="true">
-     background-color:rgb(26, 198, 255);    <!--시험 입장 버튼 색깔 코드 255, 230, 153-->
-     border: 2px solid rgb(26, 198, 255);     <!--테두리-->
-     border-radius: 10px;                   <!--모서리-->
-     </string>
+    
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(26, 198, 255)</string><!--시험 입장 버튼 색깔 코드 255, 230, 153-->
     </property>
+    
+  
+    
      <property name="font">
      <font>
       <family>나눔스퀘어라운드 Bold</family>
@@ -138,7 +133,12 @@
     </property>
     <property name="text">
      <string>시험 입장</string>
-    </property>   
+    </property>
+
+
+
+
+    
     <property name="autoDefault">
      <bool>true</bool>
     </property>
@@ -166,12 +166,8 @@
     <property name="autoFillBackground">
      <bool>false</bool>
     </property>
-    <property name="styleSheet">    <!--학번 입력 스타일시트-->
-     <string notr="true">
-     background-color:rgb(252, 252, 252);
-     border: 2px solid gray;        <!--테두리-->
-     border-radius: 10px;           <!--테두리 라운드 -->
-     </string>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(252, 252, 252)</string>
     </property>
    </widget>
    <widget class="QLabel" name="title">
