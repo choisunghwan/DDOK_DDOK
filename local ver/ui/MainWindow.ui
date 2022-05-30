@@ -177,22 +177,22 @@
    <widget class="QLabel" name="title">
     <property name="geometry">
      <rect>
-      <x>130</x>
-      <y>60</y>
-      <width>101</width>
-      <height>41</height>
+      <x>80</x><!--130/ 글자 위치 맞추기-->
+      <y>60</y><!--60-->
+      <width>200</width><!--101 이 너비 부분을 올리면서 아래 pointsize 올리기-->
+      <height>41</height><!--41-->
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>나눔스퀘어_ac ExtraBold</family>
-      <pointsize>10</pointsize>     <!--학생용 프로그램 ddok ddok -->
-      <weight>75</weight>
+      <family>Arial Black</family> <!--폰트 바꾸기 기존:나눔스퀘어_ac ExtraBold-->
+      <pointsize>18</pointsize>     <!--학생용 프로그램 ddok ddok 기존:10 -->
+      <weight>150</weight> <!--기존 75-->
       <bold>true</bold>
      </font>
     </property>
     <property name="text">
-     <string>DDOK DDOK</string>
+     <string>DDOK DDOK</string> <!--학생용 프로그램 DDOK DDOK 이름 출력-->
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
