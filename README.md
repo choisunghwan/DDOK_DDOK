@@ -12,6 +12,9 @@
 ## 협업 툴
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
+# 사용 언어
+<img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-critical?style=flat-square&logo=html5&logoColor=white"/>
+
 
 ## 핵심
 - 온라인 시험 부정행위 감지 
@@ -22,4 +25,5 @@
 - 특정 키 입력시 로그 기록
 - 얼굴인식으로 대리시험 방지
 - 특정 프로그램 차단
-=======
+
+##
