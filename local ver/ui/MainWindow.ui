@@ -166,7 +166,7 @@
     <property name="autoFillBackground">
      <bool>false</bool>
     </property>
-    <property name="styleSheet">    <!--학번 입력 스타일시트-->
+    <property name="styleSheet">    <!--학번 입력 스타일시트 -->
      <string notr="true">
      background-color:rgb(252, 252, 252);
      border: 2px solid gray;        <!--테두리-->
