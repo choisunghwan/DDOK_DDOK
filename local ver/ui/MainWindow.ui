@@ -166,8 +166,17 @@
     <property name="autoFillBackground">
      <bool>false</bool>
     </property>
+<<<<<<< HEAD
     <property name="styleSheet">
      <string notr="true">background-color:rgb(252, 252, 252)</string>
+=======
+    <property name="styleSheet">    <!--학번 입력 스타일시트 -->
+     <string notr="true">
+     background-color:rgb(252, 252, 252);
+     border: 2px solid gray;        <!--테두리-->
+     border-radius: 10px;           <!--테두리 라운드 -->
+     </string>
+>>>>>>> 5c10343bddf89ab6df3f4c58c8638a7ba7a87368
     </property>
    </widget>
    <widget class="QLabel" name="title">
