@@ -55,7 +55,18 @@
      <string>startButton</string>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color:rgb(26, 198, 255)</string> <!--학생용: 얼굴인증 후 응시하기 버튼 색깔 설정-->
+     <string notr="true">
+
+    background-color:rgb(26, 198, 255);
+    border-radius: 10px;    <!--추가한 부분 버튼 둥글게-->
+     </string> <!--학생용: 얼굴인증 후 응시하기 버튼 색깔 설정-->
+    </property>
+     <property name="font"><!--추가한 부분64~70줄까지 -->
+     <font>
+      <family>나눔스퀘어라운드 Bold</family>
+      <weight>75</weight>
+     color: rgb(0,255,0);
+     </font>
     </property>
     <property name="text">
      <string>응 시 하 기</string>
