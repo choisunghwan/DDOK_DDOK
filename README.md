@@ -29,4 +29,6 @@
 - 얼굴인식으로 대리시험 방지
 - 특정 프로그램 차단
 - 작성중..
-##
+
+## 소개영상 
+https://drive.google.com/file/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
