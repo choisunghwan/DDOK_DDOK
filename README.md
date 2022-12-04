@@ -28,7 +28,16 @@
 - 특정 키 입력시 로그 기록
 - 얼굴인식으로 대리시험 방지
 - 특정 프로그램 차단
-- 작성중..
+
+## 개발동기
+![image](https://user-images.githubusercontent.com/33335762/205472187-aba1e5e2-a222-413d-b990-81a41f3acc54.png)
+
+## 설계
+![image](https://user-images.githubusercontent.com/33335762/205472212-aae6f2b1-d895-45d6-b490-f7cd85cd8db9.png)
+![image](https://user-images.githubusercontent.com/33335762/205472230-2df607e8-54b9-4ce3-bf45-5733d3cbea2c.png)
+
+## 구현및 구현 환경
+![image](https://user-images.githubusercontent.com/33335762/205472246-1abe58c4-0990-4693-a622-940675825984.png)
 
 ## 소개영상 
 https://drive.google.com/file/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
