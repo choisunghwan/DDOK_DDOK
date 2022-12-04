@@ -55,8 +55,7 @@
 
 
 ## 시연영상 
-https://drive.google.com/fil
+https://drive.google.com/file/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
 
 https://user-images.githubusercontent.com/33335762/205472540-d9707a1e-f844-48bf-942a-e31c227d170b.mp4
 
-e/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
