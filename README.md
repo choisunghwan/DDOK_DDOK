@@ -9,18 +9,13 @@
   </a>
 </p>
 
-## 협업 툴
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftTeams-blue?style=flat-square&logo=MicrosoftTeams&logoColor=white"/></a>
-
-## 사용 언어
-
-<img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-critical?style=flat-square&logo=html5&logoColor=white"/>
-
 ## 핵심
 
 - 온라인 시험 부정행위 감지 프로그램
 - 코로나19로 인하여 비대면 교육 형식이 보편화됨에 따라 온라인 학습 및 시험 형태가 교육기관에서 일반화되고 있다. 이러한 급격한 변화로 교육의 공정성 문제와 온라인 시험의 부정행위 문제가 대두되고 있다. 시험 응시자의 다양한 환경을 고려하여 정확하게 부정행위자를 판별하는 방법이 중요해지고 있다. 이를 위해 본 연구에서는 온라인 시험환경에서의 응시자의 행동 데이터와 영상데이터 분석을 진행하여 부정행위자를 감별하는 연구를 진행하였다. 분석 결과 긍정적인 반응을 얻었으며 앞으로 활용 가능성이 기대된다.
+
+## 구현및 구현 환경
+![image](https://user-images.githubusercontent.com/33335762/205472246-1abe58c4-0990-4693-a622-940675825984.png)
 
 ## 계획
 
@@ -39,8 +34,7 @@
 ![image](https://user-images.githubusercontent.com/33335762/205472212-aae6f2b1-d895-45d6-b490-f7cd85cd8db9.png)
 ![image](https://user-images.githubusercontent.com/33335762/205472230-2df607e8-54b9-4ce3-bf45-5733d3cbea2c.png)
 
-## 구현및 구현 환경
-![image](https://user-images.githubusercontent.com/33335762/205472246-1abe58c4-0990-4693-a622-940675825984.png)
+
 
 ## 핵심 기능
 1. 얼굴 인식 방식
@@ -61,4 +55,8 @@
 
 
 ## 시연영상 
-https://drive.google.com/file/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
+https://drive.google.com/fil
+
+https://user-images.githubusercontent.com/33335762/205472540-d9707a1e-f844-48bf-942a-e31c227d170b.mp4
+
+e/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
