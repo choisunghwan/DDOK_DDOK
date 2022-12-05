@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?
+
 
 # :droplet: 똑똑 (한 프로그램) 똑똑 (들여보내주세요) :droplet:
-<img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlign=48&desc=DCU Capstone Design Project.&descAlignY=65&descAlign=65" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlign=48&desc=DCU Capstone Design Project.&descAlignY=65&descAlign=65" /> -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Capstone%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=B3ECFF&height=300&section=header&text=온라인부정행위방지%20시스템&fontSize=70)
 
 
 - Start date : 2021. 08. 31.
