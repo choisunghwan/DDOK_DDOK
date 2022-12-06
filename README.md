@@ -23,7 +23,7 @@
 - 코로나19로 인하여 비대면 교육 형식이 보편화됨에 따라 온라인 학습 및 시험 형태가 교육기관에서 일반화되고 있다. 이러한 급격한 변화로 교육의 공정성 문제와 온라인 시험의 부정행위 문제가 대두되고 있다. 시험 응시자의 다양한 환경을 고려하여 정확하게 부정행위자를 판별하는 방법이 중요해지고 있다. 이를 위해 본 연구에서는 온라인 시험환경에서의 응시자의 행동 데이터와 영상데이터 분석을 진행하여 부정행위자를 감별하는 연구를 진행하였다. 분석 결과 긍정적인 반응을 얻었으며 앞으로 활용 가능성이 기대된다.
 
 ## 구현및 구현 환경
-![image](https://user-images.githubusercontent.com/33335762/205472246-1abe58c4-0990-4693-a622-940675825984.png)
+![image](https://user-images.githubusercontent.com/33335762/205943549-cb62f23c-694e-4d39-ab90-bec31dd8e0e5.png)
 
 ## 계획
 
@@ -36,12 +36,11 @@
 
 
 ## 개발동기
-![image](https://user-images.githubusercontent.com/33335762/205472187-aba1e5e2-a222-413d-b990-81a41f3acc54.png)
+![image](https://user-images.githubusercontent.com/33335762/205943742-f04a3a17-645b-41e9-bfd6-a9d56a71fe94.png)
 
 ## 설계
-![image](https://user-images.githubusercontent.com/33335762/205472212-aae6f2b1-d895-45d6-b490-f7cd85cd8db9.png)
-![image](https://user-images.githubusercontent.com/33335762/205472230-2df607e8-54b9-4ce3-bf45-5733d3cbea2c.png)
-
+![image](https://user-images.githubusercontent.com/33335762/205943914-3c11f486-d30e-4d43-b372-9f157ed8141d.png)
+![image](https://user-images.githubusercontent.com/33335762/205944386-7f97d037-4216-4612-8157-8ded866e317f.png)
 
 
 ## 핵심 기능
