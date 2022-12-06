@@ -1,12 +1,16 @@
 
 
-# :droplet: 똑똑 (한 프로그램) 똑똑 (들여보내주세요) :droplet:
+# :droplet: 똑똑 (한 프로그램) 똑똑 (들여보내주세요) :droplet: 💻🥇
 <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=33b9cc&height=300&section=header&text=DDOK DDOK&fontSize=90&animation=twinkling&fontAlign=48&desc=DCU Capstone Design Project.&descAlignY=65&descAlign=65" /> -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=B3ECFF&height=300&section=header&text=온라인부정행위방지%20시스템&fontSize=70)
 
+- Team name: DDOK DDOK (똑똑)
+- Project execution period : 2021. 08. 31 ~ 2022. 06
+- APP ICON: ![image](https://user-images.githubusercontent.com/33335762/205942440-66c88136-e74e-4ce5-9ee7-a301ef06bd8e.png)
 
-- Start date : 2021. 08. 31.
+
+
 <p align= 'center'>
 <a href="https://github.com/choisunghwan/ddokddok/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA ISSUE-%23F7DF1E?&logoColor=black&style=for-the-badge&&logoColor=white"/>
@@ -63,3 +67,7 @@ https://drive.google.com/file/d/1ujD_6FtqBTP8ZRkiDpEBZTOg2Lcli9_j/view
 
 https://user-images.githubusercontent.com/33335762/205472540-d9707a1e-f844-48bf-942a-e31c227d170b.mp4
 
+## 논문
+![image](https://user-images.githubusercontent.com/33335762/205943032-a1450861-6413-4cd2-a0e4-2353abe17eb6.png)
+ 
+- http://kips.or.kr/bbs/confn/article/2484
